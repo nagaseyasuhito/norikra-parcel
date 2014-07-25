@@ -1,0 +1,51 @@
+{
+	"schema_version": 1,
+	"name": "NORIKRA",
+	"version": "${package.version}",
+	"setActiveSymlink": true,
+	"scripts": 
+	{
+		"defines": "norikra_env.sh",
+		"alternatives": "norikra_alternatives.sh"
+	},
+
+	"packages": 
+	[
+		{
+			"name": "norikra",
+			"version": "${package.version}"
+		}
+	],
+
+	"components": 
+	[
+		{
+			"name": "norikra",
+			"version": "${package.version}"
+		}
+	],
+
+	"provides": 
+	[
+		"norikra"
+	],
+
+	"users": 
+	{
+		"norikra": 
+		{
+			"longname": "Norikra",
+			"home": "/var/run/norikra",
+			"shell": "/sbin/nologin",
+			"extra_groups": 
+			[
+				
+			]
+		}
+	},
+
+	"groups": 
+	[
+		
+	]
+}

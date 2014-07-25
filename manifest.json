@@ -1,0 +1,75 @@
+{
+    "parcels": [
+        {
+            "hash": "d1007db3fedbe764bbaef709851e9a51a9d8410a",
+            "parcelName": "NORIKRA-1.0.5-cdh5.1.0.p0.1-el5.parcel",
+            "components": [
+                {
+                    "version": "1.0.5-cdh5.1.0.p0.1",
+                    "name": "norikra"
+                }
+            ]
+        },
+        {
+            "hash": "d1007db3fedbe764bbaef709851e9a51a9d8410a",
+            "parcelName": "NORIKRA-1.0.5-cdh5.1.0.p0.1-el6.parcel",
+            "components": [
+                {
+                    "version": "1.0.5-cdh5.1.0.p0.1",
+                    "name": "norikra"
+                }
+            ]
+        },
+        {
+            "hash": "d1007db3fedbe764bbaef709851e9a51a9d8410a",
+            "parcelName": "NORIKRA-1.0.5-cdh5.1.0.p0.1-lucid.parcel",
+            "components": [
+                {
+                    "version": "1.0.5-cdh5.1.0.p0.1",
+                    "name": "norikra"
+                }
+            ]
+        },
+        {
+            "hash": "d1007db3fedbe764bbaef709851e9a51a9d8410a",
+            "parcelName": "NORIKRA-1.0.5-cdh5.1.0.p0.1-precise.parcel",
+            "components": [
+                {
+                    "version": "1.0.5-cdh5.1.0.p0.1",
+                    "name": "norikra"
+                }
+            ]
+        },
+        {
+            "hash": "d1007db3fedbe764bbaef709851e9a51a9d8410a",
+            "parcelName": "NORIKRA-1.0.5-cdh5.1.0.p0.1-sles11.parcel",
+            "components": [
+                {
+                    "version": "1.0.5-cdh5.1.0.p0.1",
+                    "name": "norikra"
+                }
+            ]
+        },
+        {
+            "hash": "d1007db3fedbe764bbaef709851e9a51a9d8410a",
+            "parcelName": "NORIKRA-1.0.5-cdh5.1.0.p0.1-squeeze.parcel",
+            "components": [
+                {
+                    "version": "1.0.5-cdh5.1.0.p0.1",
+                    "name": "norikra"
+                }
+            ]
+        },
+        {
+            "hash": "d1007db3fedbe764bbaef709851e9a51a9d8410a",
+            "parcelName": "NORIKRA-1.0.5-cdh5.1.0.p0.1-wheezy.parcel",
+            "components": [
+                {
+                    "version": "1.0.5-cdh5.1.0.p0.1",
+                    "name": "norikra"
+                }
+            ]
+        }
+    ],
+    "lastUpdated": 1406278455
+}

@@ -1,0 +1,25 @@
+{
+	"jruby": 
+	{
+		"destination": "/usr/bin/jruby",
+		"source": "bin/jruby",
+		"priority": 10,
+		"isDirectory": false
+	},
+
+	"norikra": 
+	{
+		"destination": "/usr/bin/norikra",
+		"source": "bin/norikra",
+		"priority": 10,
+		"isDirectory": false
+	},
+
+	"norikra-client": 
+	{
+		"destination": "/usr/bin/norikra-client",
+		"source": "bin/norikra-client",
+		"priority": 10,
+		"isDirectory": false
+	}
+}
